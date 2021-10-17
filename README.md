@@ -16,8 +16,8 @@
 
 ## Langueges and Tools: 
 
-![afoliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=afoliveira&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afoliveira&theme=gruvbox)](https://github.com/afoliveira/github-readme-stats)
+![afoliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=afoliveira&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afoliveira&show_icons=true&theme=dracula)](https://github.com/afoliveira/github-readme-stats)
 
 
 
