@@ -14,8 +14,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonso-oliveira-104232ba/)](https://www.linkedin.com/in/afonso-oliveira-104232ba/)
 
 
-## Langueges and Tools: 
-
 ![afoliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=afoliveira&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afoliveira&show_icons=true&theme=dracula)](https://github.com/afoliveira/github-readme-stats)
 
