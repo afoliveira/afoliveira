@@ -1,4 +1,4 @@
-## I'm Afonso Oliveira!
+## Hello, I'm Afonso Oliveira!
 
  
 :computer: I'm Front-End Developer!
@@ -8,7 +8,6 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/afoliveira)](https://github.com/afoliveira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonso-oliveira-104232ba/)](https://www.linkedin.com/in/afonso-oliveira-104232ba/)
 
 
