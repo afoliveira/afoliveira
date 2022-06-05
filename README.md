@@ -6,8 +6,6 @@
 :house_with_garden: I’m from Brazil.
 
 
-## About me
-
 ![afoliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=afoliveira&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afoliveira&show_icons=true&theme=dracula)](https://github.com/afoliveira/github-readme-stats)
 
@@ -20,7 +18,3 @@
 <code><img height='20' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'></code>
 <code><img height='20' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'></code>
 <code><img height='20' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'></code>
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
